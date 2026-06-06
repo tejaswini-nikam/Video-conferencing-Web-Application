@@ -18,7 +18,9 @@
 
 .landingPageContainer nav h2 {
   font-size: 1.8rem;
-  font-weight: 500;
+  font-weight: 700;
+  font-family: 'Space Grotesk', sans-serif;
+  letter-spacing: 1.5px;
 }
 
 .landingPageContainer nav .navlist {

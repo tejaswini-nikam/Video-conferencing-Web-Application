@@ -10,7 +10,7 @@ export default function LandingPage() {
         <div className='landingPageContainer'>
             <nav>
                 <div className='navHeader'>
-                    <h2>Apna Video Call</h2>
+                    <h2 style={{ fontFamily: "'Space Grotesk', sans-serif", letterSpacing: "1px" }}>MeetSpark</h2>
                 </div>
                 <div className='navlist'>
                     <p onClick={() => {
@@ -34,7 +34,7 @@ export default function LandingPage() {
                 <div>
                     <h1><span style={{ color: "#FF9839" }}>Connect</span> with your loved Ones</h1>
 
-                    <p>Connect Anywhere, Anytime — Face to Face By VideoMeet</p>
+                    <p>Connect Anywhere, Anytime — Face to Face By MeetSpark</p>
                     <div role='button'>
                         <Link to={"/auth"}>Get Started</Link>
                     </div>
