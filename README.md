@@ -1,6 +1,6 @@
-# VideoMeet - Video Conferencing Website
+# MeetSpark - Video Conferencing Website
 
-This repository hosts the source code for VideoMeet, a full-stack real-time video conferencing web application built with the MERN Stack. It offers a seamless platform for secure online meetings and collaboration.
+This repository hosts the source code for MeetSpark, a full-stack real-time video conferencing web application built with the MERN Stack. It offers a seamless platform for secure online meetings and collaboration.
 
 ## Demo
 
